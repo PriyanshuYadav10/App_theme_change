@@ -1,0 +1,12 @@
+com.example.theme.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Pushpendra singh\.gradle\caches\transforms-3\0738edd5f88f65e42d4602f987275a72\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.theme.app-jetified-annotation-experimental-1.1.0-1 C:\Users\Pushpendra singh\.gradle\caches\transforms-3\369ba75e4c7f33583f011c220195f98e\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.theme.app-jetified-window-1.0.0-beta04-2 C:\Users\Pushpendra singh\.gradle\caches\transforms-3\af20e7cd6b1badf1904ee00eac176264\transformed\jetified-window-1.0.0-beta04\res
+com.example.theme.app-core-1.6.0-3 C:\Users\Pushpendra singh\.gradle\caches\transforms-3\b8203fe242bcd1c096ac2fef8b83226d\transformed\core-1.6.0\res
+com.example.theme.app-debug-4 D:\theme\android\app\src\debug\res
+com.example.theme.app-main-5 D:\theme\android\app\src\main\res
+com.example.theme.app-pngs-6 D:\theme\build\app\generated\res\pngs\debug
+com.example.theme.app-resValues-7 D:\theme\build\app\generated\res\resValues\debug
+com.example.theme.app-rs-8 D:\theme\build\app\generated\res\rs\debug
+com.example.theme.app-mergeDebugResources-9 D:\theme\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.theme.app-mergeDebugResources-10 D:\theme\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.theme.app-merged_res-11 D:\theme\build\app\intermediates\merged_res\debug
